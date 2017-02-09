@@ -1,6 +1,6 @@
 {
-	"auth": {
-    "entryPoint": "", /* Redirect Login URL */
-		"cert": "" /* X509Certificate content from IDP metadata */
-  }
+    "auth": {
+	"entryPoint": "URL - generated while setting up application in Okta and provided by Okta Admin",
+	"cert": "X509 cert string - generated while setting up application in Okta and provided by Okta Admin"
+    }
 }
